@@ -1,0 +1,28 @@
+input{
+    height:30px;
+    line-height:30px;
+    text-indent:10px;
+}
+
+.listArea{
+    width:250px;
+    margin:auto;
+    width:%100;
+}
+
+
+.list li{
+    padding:10px;
+}
+.list li span{
+    display:block;
+}
+
+.list li span.name{
+    float:left;
+
+}
+.list li span.phone{
+    float:right;
+
+}
